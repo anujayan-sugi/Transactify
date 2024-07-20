@@ -20,7 +20,16 @@
 
 '''
 Short Description:
-Enables simplified transactions by 
+Enables simplified transactions by making it much easier for
+people to view how much a specific transaction will cost them.
+
+
+Technical Explanation:
+I used the substrateinterface library for Polkadot to 
+be able to calculate the transaction fee for a given transaction.
+The website was built using flask, and I created an extremely 
+minimalistic but good looking UI so that newbies to Polkadot
+will not be put off by any possible perceived complexity.
 '''
 
 from flask import Flask, render_template, request
