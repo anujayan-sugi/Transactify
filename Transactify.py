@@ -3,6 +3,7 @@
 # check above later
 # app28
 #newflask
+# todo: add to webpage ASAP
 # todo: edit flask
 # app = Flask(__name__)
 
