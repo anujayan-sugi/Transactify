@@ -3,6 +3,7 @@
 # check above later
 # app28
 #newflask
+# todo: edit flask
 # app = Flask(__name__)
 
 # @app.route('/', methods=['GET', 'POST'])
