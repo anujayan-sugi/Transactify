@@ -1,27 +1,4 @@
-# from flask import Flask, render_template, request
-# app1 = Flask(__name__)
-# check above later
-#wiwo
-# app289
-# newask230
-#wywfg
-#ieoe
-#rune
-#eyeiwow
-#qwe
-#^+
-#765
-#ty
-# do html ref6
-# djee431
-#
-#chd
-# newask3fdyw
-#5
-# newSk4
-#newflask
-# todo: add to webpage ASAP
-# todo: edit flask
+
 # app = Flask(__name__)
 
 # @app.route('/', methods=['GET', 'POST'])
