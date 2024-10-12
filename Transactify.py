@@ -4,6 +4,7 @@
 # @app.route('/', methods=['GET', 'POST'])
 # def index():
 #     output = ""
+# 5
 #     if request.method == 'POST':
 #         destination = request.form.get('destination')
 #         amount = request.form.get('amount')
