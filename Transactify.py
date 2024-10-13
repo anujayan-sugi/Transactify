@@ -5,6 +5,7 @@
 # def index():
 #     output = ""
 # 5
+# output
 #     if request.method == 'POST':
 #         destination = request.form.get('destination')
 #         amount = request.form.get('amount')
